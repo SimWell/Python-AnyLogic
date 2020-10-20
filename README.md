@@ -22,4 +22,4 @@ This repository contains Python codes with applications on AnyLogic simulation m
 
 **Email**: info@simwell.io | **Phone**: +1 (412) 218-0913
 
-[Website](https://www.simwell.io/en/) | [Youtube](https://www.youtube.com/c/SimwellConsultingTechnologies/videos) | [LinkedIn](https://www.linkedin.com/company/simwell-consulting-&-technologies-inc-/) | [Facebook](https://www.facebook.com/simwellConsultingTechnologies/)
+[Website](https://www.simwell.io/en/) | [YouTube](https://www.youtube.com/c/SimwellConsultingTechnologies/videos) | [LinkedIn](https://www.linkedin.com/company/simwell-consulting-&-technologies-inc-/) | [Facebook](https://www.facebook.com/simwellConsultingTechnologies/)
