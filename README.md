@@ -11,5 +11,7 @@ This repository contains Python codes with applications on AnyLogic simulation m
 ### Libraries
 * [anylogiccloudclient](https://cloud.anylogic.com/files/api-8.5.0/docs/index.html#1-overview)
 
+`pip install https://cloud.anylogic.com/files/api-8.5.0/clients/anylogiccloudclient-8.5.0-py3-none-any.whl`
+
 ### Additional Resources
 * [AnyLogic Cloud](https://cloud.anylogic.com/models?public=true)
