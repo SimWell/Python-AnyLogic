@@ -21,10 +21,10 @@ inputs.set_input("Server capacity", 8)
 # Creat a simulation object with the inputs
 simulation = client.create_simulation(inputs)
 
-# Obtain the simulaiton outputs
+# Obtain the simulation outputs
 outputs = simulation.get_outputs_and_run_if_absent()
 
-# Print the simulaiton model outcome values
+# Print the simulation model outcome values
 print("Raw outputs = " + str(outputs.get_raw_outputs()))
 print("For Server Capacity = " + str(inputs.get_input("Server capacity")))
 print("Mean queue size = " + str(outputs.value("Mean queue size|Mean queue size")))
