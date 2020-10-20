@@ -3,8 +3,6 @@
 # Model name: Service System Demo
 # Model can be found at: https://cloud.anylogic.com/models
 
-# PYTHON CODE
-
 # Load anylogiccloudclient library
 from anylogiccloudclient.client.cloud_client import CloudClient
 
