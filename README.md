@@ -16,8 +16,9 @@ This repository contains Python codes with applications on AnyLogic simulation m
 ### Additional Resources
 * [AnyLogic Cloud](https://cloud.anylogic.com/models?public=true)
 
-![SimWell](https://media-exp1.licdn.com/dms/image/C4E0BAQGP9l9lsqfYNg/company-logo_200_200/0?e=2159024400&v=beta&t=kdxnTipM9sItchXhm0lh0-qKi_SxbBabr07SmxnIq0w)
-
 ![SimWell](https://cdn.statically.io/img/www.simwell.io/wp-content/uploads/2020/06/Simwell-Logo-Small.png?w=200&quality=100&f=auto)
 
-[Website](https://www.simwell.io/en/) | [Youtube](https://www.youtube.com/c/SimwellConsultingTechnologies/videos) | [LinkedIn](https://www.linkedin.com/company/simwell-consulting-&-technologies-inc-/) | [Facebook](https://www.facebook.com/simwellConsultingTechnologies/)
+
+**Email**: info@simwell.io | **Phone**: +1 (412) 218-0913
+[Website](https://www.simwell.io/en/) | [Youtube](https://www.youtube.com/c/SimwellConsultingTechnologies/videos) | [LinkedIn]
+(https://www.linkedin.com/company/simwell-consulting-&-technologies-inc-/) | [Facebook](https://www.facebook.com/simwellConsultingTechnologies/)
